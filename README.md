@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/ultimatecoder/arjun.svg?branch=master)](https://travis-ci.org/ultimatecoder/arjun)
+
+
 ## Overview
 
 **Arjun** 🏹 is a [ReST][1] API for managing team members :necktie:. The tool
@@ -15,7 +18,7 @@ Programming language: [Python][3] :snake:
 1. Install beautiful tool :star2: [Pipenv][5]. We will use this for managing
    development/test level dependencies.
 
-2. Install dependencies using `pipenv install`.
+2. Install development dependencies using `pipenv install --dev`.
 
 
 ## Development :pencil:
