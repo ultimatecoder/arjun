@@ -18,7 +18,7 @@ Programming language: [Python][3] :snake:
 1. Install beautiful tool :star2: [Pipenv][5]. We will use this for managing
    development/test level dependencies.
 
-2. Install dependencies using `pipenv install`.
+2. Install development dependencies using `pipenv install --dev`.
 
 
 ## Development :pencil:
