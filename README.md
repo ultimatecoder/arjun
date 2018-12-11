@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/ultimatecoder/arjun.svg?branch=master)](https://travis-ci.org/ultimatecoder/arjun)
+
+
 ## Overview
 
 **Arjun** 🏹 is a [ReST][1] API for managing team members :necktie:. The tool
