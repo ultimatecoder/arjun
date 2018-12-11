@@ -10,7 +10,23 @@ Database: [MySQL][2]
 Programming language: [Python][3] :snake:
 
 
-## Development :european_castle:
+## Build :european_castle:
+
+1. Install beautiful tool :star2: [Pipenv][5]. We will use this for managing
+   development/test level dependencies.
+
+2. Install dependencies using `pipenv install`.
+
+
+## Development :pencil:
+
+
+## Test :hammer:
+
+#### Note: Perform build steps from **Build** section prior to this section
+####
+
+1. **Linting**: Use `make lint` to lint your code.
 
 
 ## License :scroll:
@@ -22,3 +38,4 @@ Programming language: [Python][3] :snake:
 [2]: https://www.mysql.com/
 [3]: https://www.python.org/
 [4]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[5]: https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv
