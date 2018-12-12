@@ -6,7 +6,9 @@ python:
   - "3.6-dev"  # 3.6 development branch
   - "3.7-dev"  # 3.7 development branch
 install:
-  - 'pip install pipenv'
-  - 'pipenv install --dev'
+  - cd api
+  - pip install pipenv
+  - pipenv install -d
+  - cd ..
 script:
   - make lint

@@ -7,7 +7,12 @@ name = "pypi"
 
 [packages]
 
+django = "*"
+mysqlclient = "*"
+djangorestframework = "*"
+django-filter = "*"
 
 
 [dev-packages]
 
+"flake8" = "*"
